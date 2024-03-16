@@ -1,0 +1,33 @@
+{
+  "name": "cst816s",
+  "description": "cst816s drivers for RT-Thread",
+  "description_zh": "cst816s 驱动",
+  "enable": "PKG_USING_CST816S",
+  "keywords": [
+    "cst816s"
+  ],
+  "category": "peripherals",
+  "author": {
+    "name": "JianbangWu",
+    "email": "buran1988@outlook.com",
+    "github": "JianbangWu"
+  },
+  "license": "LGPL-2.1",
+  "repository": "https://github.com/JianbangWu/cst816s",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "site": [
+    {
+      "version": "v1.0.0",
+      "URL": "https://cst816s-1.0.0.zip",
+      "filename": "cst816s-1.0.0.zip"
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/JianbangWu/cst816s.git",
+      "filename": "",
+      "VER_SHA": "master"
+    }
+  ]
+}
